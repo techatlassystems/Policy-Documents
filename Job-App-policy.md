@@ -1,6 +1,9 @@
 Privacy Policy – USA Federal Job Search
+
 Last updated: 11/9/2025
+
 Tech Atlas LLC (“we,” “our,” or “us”) operates the USA Federal Job Search Android application (“App”). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our App.
+
 1. Information We Collect
 Personal Identifiers: Name, email (if you log in with Google).
 Device Information: Device model, operating system, device/advertising IDs.
