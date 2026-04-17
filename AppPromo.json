@@ -1,55 +1,19 @@
 {
-
-    "daysToRate": 1,
-
-    "usesToRate": 2,
-
-    "timeToNext": 1,
-
-    "rateDelay": 40.0,
-
-    "promoDelay": 10.0,
-
-    "firstPromoDelay": 3.0,
-
-    "promoInfoDelay": 1.5,
-
-    "allowTrackDelay": 0.5,
-
-    "showInterstitial": true,
-
-    "promoShare": 10,
-
-    "appShare": 10,
-
-    "installed": [],
-
-    "firstPromo": [
-
-      {
-
-        "title": "Prayer Times",
-
-        "appId": "6547833385",
-
-        "url": "taprayertimes://"
-
-      }
-
-    ],
-
-    "secondPromo": [
-
-      {
-
-        "title": "Prayer Times",
-
-        "appId": "6547833385",
-
-        "url": "taprayertimes://"
-
-      }
-
-    ]
-
+    "daysToRate": 1,
+    "usesToRate": 2,
+    "timeToNext": 1,
+    "rateDelay": 6.0,
+    "promoDelay": 12.0,
+    "firstPromoDelay": 3.0,
+    "promoInfoDelay": 1.5,
+    "allowTrackDelay": 0.5,
+    "showInterstitial": true,
+    "installed": [],
+    "promoApps": [
+        {
+            "appId": "6743057595",
+            "title": "Prayer Times Pro",
+            "url": "qiblaPrayerPro://"
+        }
+    ]
 }
