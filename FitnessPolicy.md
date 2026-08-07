@@ -1,6 +1,6 @@
 # Fitness App Policy-Documents
 
-Privacy Policy
+### Privacy Policy
 
 
 This privacy policy applies to the IgniteFit AI Fitness App app (hereby referred to as "Application") for mobile devices that was created by Tech Atlas LLC (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
@@ -31,7 +31,7 @@ The Service Provider may use the information you provided to contact you from ti
 For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to Gender. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
 
 
-Third Party Access
+### Third Party Access
 
 Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
 
@@ -39,11 +39,11 @@ Only aggregated, anonymized data is periodically transmitted to external service
 
 Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
-Google Play Services
 
-AdMob
 
-Google Analytics for Firebase
+### AdMob
+
+### Google Analytics for Firebase
 
 
 
@@ -56,12 +56,12 @@ when they believe in good faith that disclosure is necessary to protect their ri
 with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
 
 
-Opt-Out Rights
+### Opt-Out Rights
 
 You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
 
-Data Retention Policy
+### Data Retention Policy
 
 The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at Privacy Policy and they will respond in a reasonable time.
 
@@ -75,25 +75,32 @@ The Service Provider does not use the Application to knowingly solicit data from
 The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (Privacy Policy) so that they will be able to take the necessary actions.
 
 
-Security
+### Security
 
 The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
 
 
-Changes
+### Changes
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
 
+### Local Data Storage (Health & Workout Logs)
+Your privacy is our priority. Any health data you input (such as age, weight, or fitness limitations) and your generated workout history logs are stored exclusively on your own physical device. This data is never transmitted to our servers, nor is it shared with any third parties, including OpenAI. You retain full control over this data, and deleting the app will permanently erase it from your device.
 
-This privacy policy is effective as of 2026-07-22
+### Artificial Intelligence Features (OpenAI)
+To provide you with customized exercise suggestions, the app securely transmits your general exercise preferences (e.g., "cardio preference" or "strength training preference") to our AI partner, OpenAI, LLC. This data is sent entirely anonymously, contains no identifying health information or user IDs, and is used strictly for "Product Functionality." Per OpenAI's developer API policies, this data is never used to train public AI models.
 
 
-Your Consent
+This privacy policy is effective as of 2026-08-06
+
+
+
+### Your Consent
 
 By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
 
 
-Contact Us
+### Contact Us
 
 If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email(techatlas.ny@gmail.com) at Privacy Policy
