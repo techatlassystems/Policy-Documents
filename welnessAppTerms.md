@@ -1,1 +1,1 @@
-# Wellness APP Terms
+# Wellness App Terms
