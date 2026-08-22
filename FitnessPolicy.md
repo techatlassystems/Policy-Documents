@@ -91,9 +91,26 @@ Your privacy is our priority. Any health data you input (such as age, weight, or
 ### Artificial Intelligence Features (OpenAI)
 To provide you with customized exercise suggestions, the app securely transmits your general exercise preferences (e.g., "cardio preference" or "strength training preference") to our AI partner, OpenAI, LLC. This data is sent entirely anonymously, contains no identifying health information or user IDs, and is used strictly for "Product Functionality." Per OpenAI's developer API policies, this data is never used to train public AI models.
 
+### No Medical Advice
+APP is intended for general productivity and wellness support.
+
+The app does not provide:
+
+Medical advice
+
+Psychiatric treatment
+
+Clinical diagnosis
+
+Emergency assistance
+
+All insights and scores are informational only.
+
+Do not rely on App for medical decisions.
+
+
 
 This privacy policy is effective as of 2026-08-06
-
 
 
 ### Your Consent
