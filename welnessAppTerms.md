@@ -1,6 +1,6 @@
 # HerCycle: Period & Fertility & Women Wellness App
 # TERMS & CONDITIONS
- Last Updated: [Date]
+ Last Updated: 09/21/2026
 
 Welcome to HerCycle: Period & Fertility ("App"), operated by Tech Atlas LLC ("we," "us," or "our"). Please read these Terms & Conditions ("Terms") carefully before using our mobile application on iOS.
 
@@ -26,7 +26,7 @@ User Responsibility: You are responsible for maintaining the accuracy of the dat
 Prohibited Conduct: You agree not to attempt to reverse engineer, decompile, hack, or disrupt the App's code, backend services, or security features.
 
 # 3. INTELLECTUAL PROPERTY
-All software, design elements, graphics, logos, algorithms, and content within [App Name] are the exclusive property of [Company/Developer Name] and are protected by applicable copyright, trademark, and intellectual property laws. You are granted a limited, non-exclusive, non-transferable license for personal, non-commercial use on Apple-branded iOS products.
+All software, design elements, graphics, logos, algorithms, and content within HerCycle are the exclusive property of Tech Atlas LLC and are protected by applicable copyright, trademark, and intellectual property laws. You are granted a limited, non-exclusive, non-transferable license for personal, non-commercial use on Apple-branded iOS products.
 
 # 4. IN-APP PURCHASES AND SUBSCRIPTIONS (APPLE APP STORE)
 Billing: If the App offers paid subscriptions or features, payment will be charged to your Apple ID account at confirmation of purchase.
@@ -38,13 +38,13 @@ Managing Subscriptions: You can manage or cancel your subscription at any time b
 Refunds: All financial transactions and refund requests are handled directly through Apple in accordance with Apple’s App Store Media Services Terms and Conditions.
 
 # 5. PRIVACY POLICY INTEGRATION
-Your privacy is paramount. Use of [App Name] is also governed by our Privacy Policy, which details how we handle, encrypt, and store your cycle data, symptoms, and health logs. Please review our Privacy Policy at [Insert Privacy Policy URL].
+Your privacy is paramount. Use of HerCycle is also governed by our Privacy Policy, which details how we handle, encrypt, and store your cycle data, symptoms, and health logs. Please review our Privacy Policy at [Insert Privacy Policy URL].
 
 # 6. LIMITATION OF LIABILITY
-To the maximum extent permitted by applicable law, [Company/Developer Name] shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including loss of data, personal injury, unplanned pregnancy, or health issues resulting from your access to or reliance on [App Name]. The App is provided on an "AS IS" and "AS AVAILABLE" basis without warranties of any kind.
+To the maximum extent permitted by applicable law, Tech Atlas LLC shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including loss of data, personal injury, unplanned pregnancy, or health issues resulting from your access to or reliance on HerCycle. The App is provided on an "AS IS" and "AS AVAILABLE" basis without warranties of any kind.
 
 # 7. GOVERNING LAW & JURISDICTION
-These Terms shall be governed by and construed in accordance with the laws of [State/Country], without regard to its conflict of law principles.
+These Terms shall be governed by and construed in accordance with the laws of US, without regard to its conflict of law principles.
 
 # 8. CHANGES TO THESE TERMS
 We reserve the right to update or modify these Terms at any time. Changes become effective immediately upon posting the updated Terms within the App or on our website. Continued use of the App constitutes acceptance of the modified Terms.
@@ -52,6 +52,6 @@ We reserve the right to update or modify these Terms at any time. Changes become
 # 9. CONTACT US
 If you have any questions or concerns regarding these Terms, please contact us at:
 
-Email: [Support Email Address]
+Email: techatlas.ny@gmail.com
 
-Website: [Company/App Website]
+Website: https://techatlassystems.com
